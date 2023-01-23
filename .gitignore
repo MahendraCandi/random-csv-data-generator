@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# ide
+.idea
+
+# ignore javascript file builded by app
+build
+
+# ignore the generated csv
+./random.csv
