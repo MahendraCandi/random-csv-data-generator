@@ -1,7 +1,7 @@
 {
-  "name": "hello-world",
+  "name": "random-csv-data-generator",
   "version": "1.0.0",
-  "description": "ts hello world",
+  "description": "A nodejs app to generate random data into CSV file",
   "main": "app.js",
   "scripts": {
     "start:build": "tsc -w",
